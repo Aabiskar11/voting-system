@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+#body{
+    border: 1px solid ;
+    padding: 5px;
+}
+#header{
+    padding: 10px;
+}
+
+#drop{
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+#R{
+    padding: 10px;
+    border-radius: 5px;
+    width: 75px;
+    background-color:blanchedalmond;
+}

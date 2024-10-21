@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color:blueviolet;
+}
+
+#headersection{
+    padding:10 ;
+}
+
+#headersection h1{
+
+}
+
+#bodysection{
+    border: 1px solid ;
+    padding: 5px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#dropdown{
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+#login{
+    padding: 10px;
+    border-radius: 5px;
+    width: 75px;
+    background-color:blanchedalmond;
+}
+
+#Reg{
+    background-color: aliceblue;
+}
